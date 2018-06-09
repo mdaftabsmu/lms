@@ -460,9 +460,7 @@
 				style="text-align: center; padding: 20px; color: rgba(51, 51, 102, 1);">Monthly
 				Working Status</h2>
 			<div class="col-md-4">
-				<img
-					src="Images/Users/AAEAAQAAAAAAAANMAAAAJGM4YWQ0MzVlLTExYmUtNDBhNy04Njg0LWNjODk3ZTJmNmNlOA.jpg"
-					class="img-circle col-xs-6" />
+				<img src="C:\Users\onkar\Desktop\AP Edusoft\Images\Users\image8.png">
 				<h3>Mr. Anil</h3>
 				<label>Enrolled Status:</label> <label>Visited Status:</label>
 			</div>
@@ -475,7 +473,7 @@
 			<div class="col-md-4">
 				<img src="Images/Users/9.-Ha-Nui-Lee.jpg"
 					class="img-circle col-xs-6" />
-				<h3>Mr. Aantika</h3>
+				<h3>Mr. Aankita</h3>
 				<label>Enrolled Status:</label> <label>Visited Status:</label>
 			</div>
 		</div>
